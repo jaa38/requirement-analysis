@@ -39,7 +39,9 @@ Quality Assurance: Ensures that the final product meets the specified requiremen
 - Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-# ⚙️ Functional Requirements
+# Types of Requirements
+
+Functional Requirements
 Functional requirements define what the system should do — the specific features and actions that enable users to achieve their goals within the booking management platform.
 Examples (Hotel Booking Management System):
 - User Registration & Authentication:
@@ -66,7 +68,7 @@ Booking confirmations, reminders, and updates are sent via email or SMS.
 - Review & Rating System:
 Guests can leave reviews and ratings after completing their stay.
 
-# 🔒 Non-functional Requirements
+Non-functional Requirements
 Non-functional requirements specify how the system performs — focusing on the quality, reliability, and user experience aspects of the platform.
 Examples (Hotel Booking Management System):
 
